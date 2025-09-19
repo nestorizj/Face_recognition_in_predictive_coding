@@ -4,4 +4,4 @@ the results on our research can be soon be read in our manuscript - Modeling Fac
 
 On this repository however, you will only find the scripts for the behavioral and fMRI experiment used to acquired our data, as well as the scripts used to preprocess and analyzed the fMRI data. For more information and complete scripts on the computational modeling and behavioral analysis please see our OSF repository here: https://osf.io/tye24/
 
-Read the original published paper here: https://www.sciencedirect.com/science/article/abs/pii/S00109452 
+Read the original published paper here: [https://www.sciencedirect.com/science/article/abs/pii/S00109452 ](https://doi.org/10.1016/j.cortex.2023.05.021)
